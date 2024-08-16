@@ -21,5 +21,7 @@ echo'<img src="image.JPG" alt="">'
 
 ?>
  
+ <p>Xin chào</p>
+
 </body>
 </html>
